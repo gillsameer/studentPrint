@@ -15,5 +15,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+//sameer
+//date
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans
